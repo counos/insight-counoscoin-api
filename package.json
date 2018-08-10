@@ -1,6 +1,6 @@
 {
   "name": "insight-counoscoin-api",
-  "description": "A Counoscoin blockchain REST and web socket API service for Counoscoincore Node.",
+  "description": "A CounosCoin blockchain REST and web socket API service for CounosCoinCore Node.",
   "version": "0.4.4",
   "repository": "git://github.com/Ramin-Bateni/insight-counoscoin-api.git",
   "contributors": [

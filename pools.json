@@ -39,7 +39,7 @@
 		]
 	},
 	{
-	  	"poolName": "CounoscoinPool",
+	  	"poolName": "CounosCoinPool",
 	  	"url": "https://counoscoinpool.org",
 	  	"searchStrings": [
 		  	"/LP/"

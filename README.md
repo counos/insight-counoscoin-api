@@ -1,6 +1,6 @@
 # Insight API
 
-A Counoscoin blockchain REST and web socket API service for [Counoscoincore Node](https://github.com/counoscoin-project/counoscoincore-node).
+A CounosCoin blockchain REST and web socket API service for [CounosCoinCore Node](https://github.com/counoscoin-project/counoscoincore-node).
 
 This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/counoscoin-project/insight-counoscoin-ui.
 
@@ -18,9 +18,9 @@ The API endpoints will be available by default at: `http://localhost:3001/insigh
 
 ## Prerequisites
 
-- [Counoscoincore Node 3.x](https://github.com/counoscoin-project/counoscoincore-node)
+- [CounosCoinCore Node 3.x](https://github.com/counoscoin-project/counoscoincore-node)
 
-**Note:** You can use an existing Counoscoin data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `bitcoin.conf`, as well as a few other additional fields.
+**Note:** You can use an existing CounosCoin data directory, however `txindex`, `addressindex`, `timestampindex` and `spentindex` needs to be set to true in `bitcoin.conf`, as well as a few other additional fields.
 
 ## Notes on Upgrading from v0.3
 
