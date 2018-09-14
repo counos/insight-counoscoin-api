@@ -61,8 +61,8 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "counoscoincore-lib": "^0.13.22",
-    "counoscoincore-message": "^1.0.5",
+    "litecore-lib": "^0.13.22",
+    "litecore-message": "^1.0.5",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",
     "lodash": "^2.4.1",
